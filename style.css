@@ -1,0 +1,285 @@
+body{
+	margin: 0px;
+	min-width: 1880px;
+}
+							/*header*/
+header{
+	background-image: url("img/1-c4c1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height:800px;
+	padding: 1px;
+}
+.flag{
+	float: right;
+}
+.logo{
+	float: left;
+}
+.logo-h{
+	text-align: center;
+}
+							/*header*/
+							
+							/*main*/
+.main{
+	height: 6790px;
+}
+.sitebar-main{
+	background-color: #BCBCBC;
+	height: 500px;
+	padding: 1px;
+}
+.top-main{
+	height: 250px;
+	width: 75%;
+	margin: 0px auto;
+	position: relative;
+	top: 100px;
+	background-color: #ebebeb;
+}
+.top-main-logo{
+	padding: 10px 0px 0px 20px;
+}
+.top-main-text{
+	padding: 0px 20px 0px 20px;
+	font-size: 20px;
+	text-align: justify;
+}
+
+
+.Attraction{
+	background-color: #E5FDF1;
+	height: 2200px;
+	padding: 1px;
+}
+.Attraction-logo{
+	text-align: center;
+	font-size: 40px	;
+}
+.tower-img{
+	width: 400px;
+	height: 600px;
+}
+.tower{
+	text-align: center;
+	padding: 0px 200px 0px 50px;
+    width: 400px;
+}
+.louvre-img{
+	width: 400px;
+	height: 600px;
+}
+.louvre{
+	text-align: center;
+	width: 400px;
+}
+.Notre-Dame-img{
+	width: 400px;
+	height: 600px;
+}
+.Notre-Dame{
+	text-align: center;
+	padding: 0px 50px 0px 200px;
+    width: 400px;
+}
+.disneyland-img{
+	width: 1200px;
+	height: auto;
+}
+.disneyland-text{
+	width: 1200px;
+	height: 200px;
+	margin: 0px auto;
+}
+.disneyland{
+	text-align: center;
+	margin: 0px auto;
+	padding-top: 100px;
+}
+.inline-img{
+	display: flex;
+}
+.all-img{
+	width: 1700px;
+	margin: 0px auto;
+	border: 6px solid #e04386;
+	background-color: #fdd2e1;
+	margin-top: 50px;
+}
+.logo-img{
+	font-size: 35px;
+}
+
+
+
+.info{
+	height: 1000px;
+	background-color: ;
+}
+.tower-info{
+	height: 980px;
+	background-color: #FFB958;
+	padding: 1px;
+}
+.tower-info-text{
+  color: steelblue;
+  font-size: 25px;
+  border-top:2px solid;
+  border-bottom:2px solid;
+  border-color: steelblue;
+  width: 180px;
+  margin: 0px auto;
+  text-align: center;
+  margin-top: 30px;
+  padding: 5px 0px;
+}
+.tower-info-sitebar{
+	overflow: auto;
+	width: 400px;
+	height: 800px;
+	font-size: 25px;
+	padding: 0px 5px 0px 100px;
+	margin: 40px 40px 0px 0px;
+}
+.tower-info-img{
+	margin: 40px 30px 0px 100px;
+	width: 550px;
+	height: auto;
+}
+.tower-info-img-1{
+	width: 550px;
+	height: 800px;
+	margin: 40px 30px 0px 50px;
+}
+.tower-all{
+	display: inline-flex;
+}
+.louvre-info{
+	height: 1000px;
+	background-color:#3CAE80;
+	padding: 1px;
+}
+.louvre-info-text{
+  color:#951A3D;
+  font-size: 25px;
+  border-top:2px solid;
+  border-bottom:2px solid;
+  border-color: #951A3D;
+  width: 60px;
+  margin: 0px auto;
+  text-align: center;
+  margin-top: 30px;
+  padding: 5px 0px;
+}
+.louvre-all{
+
+}
+.louvre-info-sitebar{
+	overflow: auto;
+	width: 500px;
+	height: 800px;
+	font-size: 25px;
+	padding: 0px 5px 0px 100px;
+	margin: 70px 70px 0px 0px;
+	float: right;
+}
+.louvre-info-img{
+	margin: 100px 30px 0px 100px ;
+	width: 1000px;
+	height: auto;
+	float: left;
+}
+.Notre-Dame-info{
+	height: 1100px;
+	background-color:#F27B9D;
+	padding: 1px;
+}
+.Notre-Dame-info-text{
+	color: #C4F89C;
+  font-size: 25px;
+  border-top:2px solid;
+  border-bottom:2px solid;
+  border-color: #C4F89C;
+ 	width: 210px;
+	margin: 0px auto;
+	text-align: center;
+	margin-top: 30px;
+	padding: 5px 0px;
+}
+.Notre-Dame-info-img{
+	width: 600px;
+	height: auto;
+	padding: 50px 0px 0px 100px;
+}
+.Notre-Dame-info-img-1{
+	width: 600px;
+	height: 420px;
+	padding: 0px 0px 0px 100px;
+}
+.Notre-Dame-info-img-2{
+	width: 600px;
+	height: 420px;
+	padding: 50px 0px 0px 50px;
+}
+.Notre-Dame-info-img-3{
+	width: 600px;
+	height: 420px;
+	padding: 50px 0px 0px 50px;
+}
+.Notre-Dame-sitebar{
+	float: right;
+	overflow: auto;
+	width: 400px;
+	height:890px;
+	padding: 30px 50px 0px 0px;
+	margin-right: 50px;
+	margin-top: 20px;
+	font-size: 25px;
+}
+.disneyland-info{
+	height: 1000px;
+	background-color:#94EAC7;
+	padding: 1px;
+}
+.disneyland-info-text{
+  color: #326997	;
+  font-size: 25px;
+  border-top:2px solid;
+  border-bottom:2px solid;
+  border-color: #326997	;
+  width: 140px;
+  margin: 0px auto;
+  text-align: center;
+  margin-top: 30px;
+  padding: 5px 0px;
+}
+.disneyland-sitebar{
+		font-size: 25px;
+		padding-top: 30px;
+		margin: 0px auto;
+		width: 1800px;
+		height: 200px;
+		text-align: ;
+}
+.disneyland-info-img{
+	padding-top: 50px;
+}
+.disneyland-all{
+	text-align: center;
+}
+							/*main*/
+
+::-webkit-scrollbar {
+  width: 5px;
+  background-color: #c9c9c9;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #a1a1a1;
+}
+
+::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.2);
+  background-color: #f9f9fd;
+}				
